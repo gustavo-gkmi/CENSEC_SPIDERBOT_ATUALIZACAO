@@ -1,2 +1,2 @@
-VERSAO: V1.70
-RECADO: 
+VERSAO: V1.71
+RECADO: teste recado
