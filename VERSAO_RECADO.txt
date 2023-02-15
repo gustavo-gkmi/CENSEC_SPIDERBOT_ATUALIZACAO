@@ -1,2 +1,2 @@
 VERSAO: V1.72
-RECADO: 
+RECADO: se o robo parar de funcionar, provavelmente seu chrome atulizou para versão 110.xxx. veja pág 1 do manual.
