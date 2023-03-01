@@ -1,2 +1,2 @@
 VERSAO: V1.77
-RECADO: se o robo parar de funcionar, atualize para v1.77 e use o botão para atualizar o chromedriver
+RECADO: se o navegador não abir, atualize para v1.77 e use o botão para atualizar o chromedriver
