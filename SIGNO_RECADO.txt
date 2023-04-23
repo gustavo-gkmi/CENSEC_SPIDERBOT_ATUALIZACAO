@@ -1,2 +1,2 @@
 VERSAO: V0.50
-RECADO: se o navegador não abir, use o botão para atualizar o chromedriver. EM TESTES
+RECADO: se o navegador não abir, use o botão para atualizar o chromedriver.
