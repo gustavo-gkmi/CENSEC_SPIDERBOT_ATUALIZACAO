@@ -1,2 +1,2 @@
-VERSAO: V1.79
-RECADO: se o navegador não abir, atualize para v1.79 e use o botão para atualizar o chromedriver
+VERSAO: V2.10
+RECADO: -
