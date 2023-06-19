@@ -1,2 +1,2 @@
-VERSAO: V2.32
-RECADO: VÍDEO DISPONÍVEL NO SITE, CORREÇÃO DE BUG CRÍTICO NA NOVA VERSÃO
+VERSAO: V2.50
+RECADO: Atualização com novas funcionalidades na versão v2.50
