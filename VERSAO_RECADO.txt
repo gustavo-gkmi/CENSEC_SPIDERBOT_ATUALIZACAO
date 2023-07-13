@@ -1,2 +1,2 @@
-VERSAO: V2.51
-RECADO: Site do CENSEC mudou, versão 2.51 foi adaptada para as mudanças.
+VERSAO: V2.60
+RECADO: Versão 9.4 do i2 homologada pela DTI, abra chamado para instalar.
