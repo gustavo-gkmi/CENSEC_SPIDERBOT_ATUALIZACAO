@@ -1,2 +1,2 @@
 VERSAO: V2.60
-RECADO: Versão 9.4 do i2 homologada pela DTI, abra chamado para instalar.
+RECADO: chromedriver.exe v. 116.xxx precisa de atualização manual, faça download no site do SPIDERBOT 
