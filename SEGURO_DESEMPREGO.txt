@@ -1,1 +1,2 @@
-gdr
+VERSAO: V1.0
+RECADO: faça o login em até 90s
