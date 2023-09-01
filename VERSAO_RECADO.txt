@@ -1,2 +1,2 @@
-VERSAO: V2.60
-RECADO: chromedriver.exe v. 116.xxx precisa de atualização manual, faça download no site do SPIDERBOT 
+VERSAO: V2.61
+RECADO: Corrigido problema do chromedriver na versão 2.61
