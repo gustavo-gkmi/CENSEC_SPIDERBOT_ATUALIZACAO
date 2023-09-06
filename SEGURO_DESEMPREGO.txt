@@ -1,2 +1,2 @@
-VERSAO: V1.00
-RECADO: Faça o login em até 90s
+VERSAO: V1.11
+RECADO: Atualização importante: V1.11 corrige bug.
