@@ -1,2 +1,2 @@
-VERSAO: V1.11
-RECADO: Atualização importante: V1.11 corrige bug.
+VERSAO: V1.12
+RECADO: Atualização corrige botão de importação automática pro i2
