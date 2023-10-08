@@ -1,2 +1,2 @@
-VERSAO: V1.12
+VERSAO: V1.20
 RECADO: Atualização corrige botão de importação automática pro i2
