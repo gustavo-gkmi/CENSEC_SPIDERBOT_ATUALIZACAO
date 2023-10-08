@@ -1,2 +1,2 @@
-VERSAO: V1.00
+VERSAO: V1.01
 RECADO: Versão inicial
