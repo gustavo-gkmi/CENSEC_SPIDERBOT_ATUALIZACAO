@@ -1,0 +1,2 @@
+VERSAO: V2.61
+RECADO: Corrigido problema do chromedriver na versão 2.61
