@@ -1,2 +1,2 @@
-VERSAO: V1.01
-RECADO: Versão inicial
+VERSAO: V1.12
+RECADO: -
