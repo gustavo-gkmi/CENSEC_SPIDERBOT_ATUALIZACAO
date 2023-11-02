@@ -1,1 +1,2 @@
-fd
+VERSAO: V1.08
+RECADO: Versão em testes
