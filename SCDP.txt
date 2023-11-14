@@ -1,2 +1,2 @@
-VERSAO: V1.26
+VERSAO: V1.28
 RECADO: Versão em testes
