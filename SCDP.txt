@@ -1,2 +1,2 @@
-VERSAO: V2.24
+VERSAO: V2.25
 RECADO: Site: https://pfgovbr.sharepoint.com/sites/SCDP_SPIDERBOT
