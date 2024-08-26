@@ -1,2 +1,2 @@
-VERSAO: V1.60
-RECADO: -
+VERSAO: V1.62
+RECADO: V1.62 disponível apenas no GERENCIADOR CIAF
